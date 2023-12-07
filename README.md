@@ -1,2 +1,2 @@
 # uml-maker
-Generador de diagramas tipo UML para proyectos desarrollados en Java.
+Generador de diagramas de clases tipo UML para proyectos desarrollados en Java.
